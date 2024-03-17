@@ -31,4 +31,4 @@ The repository is organised in folders:
      descriptors. These results are from the first run of a 5-fold cross-validation process.
      Similarly, eva_D3_test_108VS147_P_test_noFP1.csv, eva_D3_test_108VS147_P_test_noFP2.csv, eva_D3_test_108VS147_P_test_noFP3.csv, and
      eva_D3_test_108VS147_P_test_noFP4.csv contain the evaluation results from the remaining four runs of the 5-fold cross-validation process.
-- The predictions got from EMH are saved in EMHPredictions.csv
+- The predictions got from EMH are saved in EMHPredictions.csv.
